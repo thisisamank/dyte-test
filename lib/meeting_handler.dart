@@ -8,8 +8,8 @@ import 'package:http/http.dart' as http;
 import 'package:uuid/uuid.dart';
 
 const baseUrl = 'https://api.cluster.dyte.in/v1';
-const apiKey = '28786006e82a9c00adf9';
-const orgId = '20d43e28-fb36-4e7e-a71d-bb14e1cbc8bf';
+const apiKey = '';
+const orgId = '';
 
 class MeetingHandler {
   MeetingHandler._();
